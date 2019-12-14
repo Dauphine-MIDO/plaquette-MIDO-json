@@ -1,7 +1,7 @@
 = plaquette-MIDO-json
 :groupId: io.github.oliviercailloux
 :artifactId: plaquette-mido-json
-:repository: plaquette-mido-json
+:repository: plaquette-MIDO-json
 
 image:https://travis-ci.com/Dauphine-MIDO/{repository}.svg?branch=master["Build Status", link="https://travis-ci.com/Dauphine-MIDO/{repository}"]
 
