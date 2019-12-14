@@ -1,0 +1,9 @@
+= plaquette-MIDO-json
+:groupId: io.github.oliviercailloux
+:artifactId: plaquette-mido-json
+:repository: plaquette-mido-json
+
+image:https://travis-ci.com/Dauphine-MIDO/{repository}.svg?branch=master["Build Status", link="https://travis-ci.com/Dauphine-MIDO/{repository}"]
+
+Un exemple d’accès aux données de ROF en Json.
+
