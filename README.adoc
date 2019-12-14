@@ -6,4 +6,5 @@
 image:https://travis-ci.com/Dauphine-MIDO/{repository}.svg?branch=master["Build Status", link="https://travis-ci.com/Dauphine-MIDO/{repository}"]
 
 Un exemple d’accès aux données de ROF en Json.
+Voir https://github.com/Dauphine-MIDO/plaquette-MIDO-json/blob/master/src/test/java/io/github/oliviercailloux/plaquette_mido/QueryTests.java[code] de test.
 
